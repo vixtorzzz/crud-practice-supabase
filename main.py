@@ -5,7 +5,7 @@ def rodar():
     print("--- Iniciando ---")
     # criar_tabela()
     
-    criar_produto("Teclado Mecânico", 200.00)
+    criar_produto("Headset", 35.50)
     
     produtos = listar_produtos()
     print(f"Produtos cadastrados: {produtos}")
