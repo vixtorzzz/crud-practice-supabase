@@ -3,9 +3,9 @@ from db_helper import criar_tabela, criar_produto, listar_produtos
 
 def rodar():
     print("--- Iniciando ---")
-    criar_tabela()
+    # criar_tabela()
     
-    criar_produto("Mouse Sem Fio", 89.90)
+    criar_produto("Teclado Mecânico", 200.00)
     
     produtos = listar_produtos()
     print(f"Produtos cadastrados: {produtos}")
