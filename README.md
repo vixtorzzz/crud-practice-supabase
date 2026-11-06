@@ -1,5 +1,4 @@
 # CRUD Practice with Supabase
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/vixtorzzz/crud-practice-supabase)
 
 This repository contains a simple Python application that demonstrates basic CRUD (Create, Read, Update, Delete) operations on a PostgreSQL database, specifically one hosted on Supabase.
 
